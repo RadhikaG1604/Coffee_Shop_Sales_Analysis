@@ -1,4 +1,4 @@
-# Excel---Coffee_Sales_Analysis
+# Coffee_Sales_Analysis
 
 This project was aimed at analyzing transaction records from a fictitious coffee shop located in New York City. By exploring the sales data, we seek to gain insights into customer preferences, popular items, peak sales periods, and other key factors influencing the coffee shop's performance.
 
