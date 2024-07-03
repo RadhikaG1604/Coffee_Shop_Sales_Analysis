@@ -21,23 +21,23 @@ The key steps of this analysis involves:
 **2. Data Exploration with Pivot Tables:**
      The next step in the analysis was to slice and dice the coffee shop data using Pivot Tables and create views to analyze the below time-series and product-level trends
 
-     **- Revenue by Month:** A PivotTable showing revenue over different months
-
-         <img src="Monthly_Revenue.png" width="350"/>
-
-     **- Transactions by Day of the week and Hour:** PivotTables displaying the number of transactions for each day of the week and each hour of the day
-
-         <img src="Transaction_1.png" width="350"/>
-
-         <img src="Transaction_2.png" width="350"/>
+- **Revenue by Month:** A PivotTable showing revenue over different months
  
-     **- Transactions by Product Category:** A PivotTable showing the number of transactions per product category, sorted in descending order
+  <img src="Monthly_Revenue.png" width="350"/>
 
-         <img src="Transaction_3.png" width="350"/>
+- **Transactions by Day of the week and Hour:** PivotTables displaying the number of transactions for each day of the week and each hour of the day
 
-     **- Top 15 Product Types:** A PivotTable displaying the number of transactions and revenue for the top 15 product types, sorted and filtered by the number of transactions
+   <img src="Transaction_1.png" width="350"/>
 
-         <img src="Product_Types.png" width="350"/>
+   <img src="Transaction_2.png" width="350"/>
+ 
+- **Transactions by Product Category:** A PivotTable showing the number of transactions per product category, sorted in descending order
+
+   <img src="Transaction_3.png" width="350"/>
+
+- **Top 15 Product Types:** A PivotTable displaying the number of transactions and revenue for the top 15 product types, sorted and filtered by the number of transactions
+
+    <img src="Product_Types.png" width="350"/>
      
 ## Key Insights
 
