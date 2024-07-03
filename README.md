@@ -23,13 +23,13 @@ The key steps of this analysis involves:
 
 - **Revenue by Month:** A PivotTable showing revenue over different months visualized using a line chart option in the Pivot Charts
  
-  <img src="Monthly_Revenue.png" width="350"/>            <img src="Monthly_Revenue_Chart.png" width="350"/>
+  <img src="Monthly_Revenue.png" width="350"/>            <img src="Monthly_Revenue_Chart.png" width="500"/>
 
 - **Transactions by Day of the week and Hour:** PivotTables displaying the number of transactions for each day of the week and each hour of the day
 
-   <img src="Transaction_1.png" width="350"/>             <img src="Daily_Transactions_Chart.png" width="350"/>
+   <img src="Transaction_1.png" width="350"/>             <img src="Daily_Transactions_Chart.png" width="500"/>
 
-   <img src="Transaction_2.png" width="350"/>             <img src="Hourly_Transactions_Chart.png" width="350"/>
+   <img src="Transaction_2.png" width="350"/>             <img src="Hourly_Transactions_Chart.png" width="500"/>
  
 - **Transactions by Product Category:** A PivotTable showing the number of transactions per product category, sorted in descending order
 
@@ -37,7 +37,7 @@ The key steps of this analysis involves:
 
 - **Top 15 Product Types:** A PivotTable displaying the number of transactions and revenue for the top 15 product types, sorted and filtered by the number of transactions
 
-    <img src="Product_Types.png" width="350"/>            <img src="Product_Type_Chart.png" width="350"/>
+    <img src="Product_Types.png" width="350"/>            <img src="Product_Type_Chart.png" width="500"/>
      
 ## Key Insights
 
